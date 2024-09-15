@@ -1,46 +1,40 @@
-# Getting Started with Create React App
+<h1 align="center">Voll - Página da Empresa</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+Uma página para a empresa fictícia de medicina Voll, construída com React, TypeScript, Styled-Components, MUI, Recharts e Json Server. <br/>
+</p>
 
-## Available Scripts
+<p align="center">
+  <a href="#">Visualize o projeto aqui!</a>
+</p>
 
-In the project directory, you can run:
+<br>
 
-### `npm start`
+<p align="center">
+  <img alt="Voll" src=".github/voll_preview.png" width="100%">
+</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 🚀 Tecnologias
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-### `npm test`
+- React
+- TypeScript
+- Styled-Components
+- MUI (Material-UI)
+- Recharts
+- Json Server
+- Git e Github
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 💻 Projeto
 
-### `npm run build`
+A página da empresa Voll é um website que apresenta dados fictícios de uma empresa de medicina. A biblioteca MUI foi utilizada para criar uma tabela que exibe informações relevantes, enquanto a Recharts foi empregada para construir um gráfico ilustrativo. O projeto foi construído com React e TypeScript para aproveitar os benefícios do desenvolvimento tipado, e Styled-Components para estilização de componentes de maneira eficiente. 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Além disso, o Json Server foi utilizado para simular uma API REST, permitindo a criação e manipulação de dados de maneira rápida e simples durante o desenvolvimento.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Funcionalidades
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Tabela de dados utilizando MUI
+- Gráfico ilustrativo utilizando Recharts
+- Simulação de API com Json Server
+- Estilização de componentes com Styled-Components
